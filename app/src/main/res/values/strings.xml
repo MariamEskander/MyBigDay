@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Big Day</string>
+    <string name="love_story">Love Story</string>
+    <string name="next">Next</string>
+    <string name="tips_before_wedding">Tips Before Wedding</string>
+    <string name="todo">To Do List</string>
+    <string name="people"><![CDATA[Family & Friends]]></string>
+    <string name="how_many_friends_family"><![CDATA[How many friends & family?]]></string>
+</resources>
